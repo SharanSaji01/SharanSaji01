@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SharanSaji01/SharanSaji01/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/SharanSaji01/SharanSaji01/blob/main/vecteezy_editorial-design-vector-one-piece-character-zoro-anime_.eps" />
 
 ###
